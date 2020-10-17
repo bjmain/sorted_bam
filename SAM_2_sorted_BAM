@@ -1,0 +1,1 @@
+samtools sort hifi_2_tig00032677.sam -o hifi_2_tig00032677_sorted.bam
